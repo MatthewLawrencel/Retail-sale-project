@@ -25,10 +25,12 @@ Install the required Python packages:
 ```bash
 pip install pandas matplotlib XlsxWriter
 
+```
+## Author
 
-**## Author**
-
-Matthew Lawrence L
-Aspiring Data Engineer / Data Analyst / Data Scientist
+**Matthew Lawrence L**
+**Aspiring Data Engineer / Data Analyst / Data Scientist**
+[LinkedIn](https://www.linkedin.com/in/MatthewLawrencel) 
+[GitHub](https://github.com/MatthewLawrencel/Retail-sale-project)
 
 
