@@ -24,3 +24,11 @@ Install the required Python packages:
 
 ```bash
 pip install pandas matplotlib XlsxWriter
+
+
+**## Author**
+
+Matthew Lawrence L
+Aspiring Data Engineer / Data Analyst / Data Scientist
+
+
