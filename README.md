@@ -30,7 +30,11 @@ pip install pandas matplotlib XlsxWriter
 
 **Matthew Lawrence L**
 **Aspiring Data Engineer / Data Analyst / Data Scientist**
-[LinkedIn](https://www.linkedin.com/in/MatthewLawrencel) 
-[GitHub](https://github.com/MatthewLawrencel/Retail-sale-project)
+``
+
+**[LinkedIn](https://www.linkedin.com/in/MatthewLawrencel)**
+
+
+**[GitHub](https://github.com/MatthewLawrencel/Retail-sale-project)**
 
 
