@@ -2,7 +2,7 @@
 
 ## Overview
 **RetailSaleAnalyzer** is a Python project that analyzes retail sales data, generates key metrics, visualizes trends, and exports an Excel report.  
-It demonstrates **end-to-end data workflow skills** including data cleaning, aggregation, visualization, and reporting—perfect for showcasing to recruiters.
+It demonstrates **end-to-end data workflow skills** including data cleaning, aggregation, visualization, and reporting.
 
 ## Features
 - Clean dataset by removing missing values
